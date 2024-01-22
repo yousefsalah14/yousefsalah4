@@ -7,14 +7,14 @@
 
 - 🌱 I’m currently learning **NodeJs , NestJS , ExpressJS**
 
-- 💬 Ask me about **NodeJs , Express**
+- 💬 Ask me about👨‍💻 As a CS student, I'm constantly learning and exploring **new technologies to improve my skills.**
 
 - 📫 How to reach me **yousefsalah1242003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/yousef salah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yousef salah" height="30" width="40" /></a>
-<a href="https://instagram.com/yousefsalah.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yousefsalah.4" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008638682636" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008638682636" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/yousefsalah.4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yousefsalah.4/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
